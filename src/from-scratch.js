@@ -1,4 +1,5 @@
 // Basic Variable & Expression Functions
+// Basic Variable & Expression Functions
 const calculateArea = (width, height) => {
   // TODO: Calculate and return the area of a rectangle
 };
