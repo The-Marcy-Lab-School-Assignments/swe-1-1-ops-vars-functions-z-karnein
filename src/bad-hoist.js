@@ -14,6 +14,12 @@ mood = 'sad';
 
 
 module.exports = {
+<<<<<<< HEAD
  debugFunc,
 }; 
+=======
+  debugFunc,
+};
+
+>>>>>>> main
 

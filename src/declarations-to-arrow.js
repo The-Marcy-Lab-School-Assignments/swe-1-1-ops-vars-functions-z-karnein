@@ -27,6 +27,7 @@ const power = (a, b) =>  {
 
 
 module.exports = {
+<<<<<<< HEAD
  add,
  subtract,
  multiply,
@@ -34,3 +35,10 @@ module.exports = {
 };
 
 
+=======
+  add,
+  subtract,
+  multiply,
+  power,
+};
+>>>>>>> main
