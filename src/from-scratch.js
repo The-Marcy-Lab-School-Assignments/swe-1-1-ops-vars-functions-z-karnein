@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 
 // Basic Variable & Expression Functions
 // Basic Variable & Expression Functions
- main
+ 
 const calculateArea = (width, height) => {
   // TODO: Calculate and return the area of a rectangle
   const area = width * height
@@ -70,7 +70,7 @@ const isValidAge = (age) => {
 
 
 module.exports = {
-<<<<<<< HEAD
+
  calculateArea,
  isEven,
  convertToFahrenheit,
@@ -82,14 +82,3 @@ module.exports = {
 };
 
 
-=======
-  calculateArea,
-  isEven,
-  convertToFahrenheit,
-  createGreeting,
-  getInitials,
-  formatPrice,
-  getLarger,
-  isValidAge,
-};
->>>>>>> main
