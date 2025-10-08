@@ -1,22 +1,23 @@
-function add(a, b) {
-  return a + b;
-}
+const add =(a, b) => a + b;
 
-function subtract(a, b) {
-  return a - b;
-}
 
-function multiply(a, b) {
-  return a * b;
-}
+const subtract = (a, b) =>  a - b;
 
-function power(a, b) {
-  return a ** b;
-}
+
+
+
+const multiply = (a, b) =>  a * b;
+
+
+
+
+const power = (a, b) => a ** b;
+
 
 module.exports = {
-  add,
-  subtract,
-  multiply,
-  power,
+ add,
+ subtract,
+ multiply,
+ power,
 };
+
