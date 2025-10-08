@@ -11,3 +11,13 @@ const {
 
 // Test your functions here!
 
+
+  calculateArea(6, 8)
+  isEven(8)
+  convertToFahrenheit(0)
+  createGreeting("zulka")
+  getInitials("zulka", 'hamza')
+  formatPrice(6)
+  getLarger(6, 7)
+  isValidAge(120)
+
