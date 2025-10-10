@@ -15,6 +15,12 @@
       "FrScTe6": 0,
       "FrScTe7": 0,
       "FrScTe8": 1
+    },
+    "Debug Tests": {
+      "DeTe1": 1,
+      "DeTe2": 1,
+      "DeTe3": 1,
+      "DeTe4": 0
     }
   },
   "idToTestNameHash": {
@@ -27,7 +33,11 @@
     "FrScTe5": "From Scratch Tests getInitials - extracts initials from first and last name",
     "FrScTe6": "From Scratch Tests formatPrice - formats number as price string",
     "FrScTe7": "From Scratch Tests getLarger - returns the larger of two numbers",
-    "FrScTe8": "From Scratch Tests isValidAge - returns true for valid ages, false for invalid"
+    "FrScTe8": "From Scratch Tests isValidAge - returns true for valid ages, false for invalid",
+    "DeTe1": "Debug Tests does not set any implicitly global variables",
+    "DeTe2": "Debug Tests uses let and const, but not var",
+    "DeTe3": "Debug Tests Uses a template literal",
+    "DeTe4": "Debug Tests logs the correct output"
   },
   "testNameToIdHash": {
     "Explicit to Implicit Tests The explicit returns have been converted to implicit returns": "ExtoImTe1",
@@ -39,12 +49,17 @@
     "From Scratch Tests getInitials - extracts initials from first and last name": "FrScTe5",
     "From Scratch Tests formatPrice - formats number as price string": "FrScTe6",
     "From Scratch Tests getLarger - returns the larger of two numbers": "FrScTe7",
-    "From Scratch Tests isValidAge - returns true for valid ages, false for invalid": "FrScTe8"
+    "From Scratch Tests isValidAge - returns true for valid ages, false for invalid": "FrScTe8",
+    "Debug Tests does not set any implicitly global variables": "DeTe1",
+    "Debug Tests uses let and const, but not var": "DeTe2",
+    "Debug Tests Uses a template literal": "DeTe3",
+    "Debug Tests logs the correct output": "DeTe4"
   },
   "humanReadable": {
     "Explicit to Implicit Tests": "1/1",
-    "finalTestScore": "FINAL SCORE: 6/10",
+    "finalTestScore": "FINAL SCORE: 9/14",
     "Declarations to Arrow Tests": "0/1",
-    "From Scratch Tests": "5/8"
+    "From Scratch Tests": "5/8",
+    "Debug Tests": "3/4"
   }
 }

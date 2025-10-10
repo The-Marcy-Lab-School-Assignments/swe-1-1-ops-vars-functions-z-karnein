@@ -133,12 +133,5 @@ module.exports = {
 
 
 
-  // calculateArea,
-  // isEven,
-  // convertToFahrenheit,
-  // createGreeting,
-  // getInitials,
-  // formatPrice,
-  // getLarger,
-  // isValidAge,
+  
 
